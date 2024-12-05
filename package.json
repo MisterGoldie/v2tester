@@ -1,0 +1,17 @@
+{
+  "name": "farcaster-frame-v2",
+  "version": "1.0.0",
+  "description": "A simple Farcaster Frame v2 example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
